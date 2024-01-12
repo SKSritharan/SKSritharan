@@ -1,8 +1,6 @@
-### Hi there 👋
-
-# Thiyagarajah Sritharan
-
-👋 Hello! I'm Thiyagarajah Sritharan, a passionate software developer and technology enthusiast.
+### Hi there 👋, I'm
+# Sritharan Thiyagarajah
+A passionate software developer and technology enthusiast.
 
 <!-- ## 🔧 Technologies & Tools
 
